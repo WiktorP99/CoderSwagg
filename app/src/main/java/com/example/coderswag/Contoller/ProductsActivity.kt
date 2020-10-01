@@ -11,6 +11,6 @@ class ProductsActivity : AppCompatActivity() {
         setContentView(R.layout.activity_products)
 
         val categoryType = intent.getStringExtra(EXTRA_CATEGORY)
-        
+
     }
 }
